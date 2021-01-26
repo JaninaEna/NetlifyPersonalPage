@@ -1,33 +1,34 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Janina Enachescu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Project leader
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Statistics Austria
+  url: https://statistik.at/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Economic psychology
+- Survey methodology
+- Decision making
+- Gender topics
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: PhD in Psycholgy
+    institution: Vienna University
+    year: 2020
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
