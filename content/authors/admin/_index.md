@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Janina Enachescu Test
+title: Janina Enachescu
 
 # Is this the primary user of the site?
 superuser: true
